@@ -1,1 +1,4 @@
 test.com
+
+*.google.com
+google.com/
