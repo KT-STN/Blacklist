@@ -2,3 +2,5 @@ test.com
 
 *.google.com
 google.com/
+*.stninc.com
+stninc.com/
