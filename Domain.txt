@@ -4,3 +4,5 @@ test.com
 google.com/
 *.stninc.com
 stninc.com/
+*.test.com
+test.com/
