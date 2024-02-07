@@ -8,3 +8,5 @@ stninc.com/
 test.com/
 *.test5
 test5/
+*.testing.com
+testing.com/
