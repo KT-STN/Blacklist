@@ -6,3 +6,5 @@ google.com/
 stninc.com/
 *.test.com
 test.com/
+*.test5
+test5/
